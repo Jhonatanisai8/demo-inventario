@@ -7,9 +7,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Sistema de Inventario</title>
     <link rel="stylesheet" href="./css/bulma.min.css">
+    <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
-<h1>Sistema de Inventario</h1>
+<h1 class="title block">Sistema de Inventario</h1>
 <div class="container">
     <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores iure quod sunt? Fuga magnam nobis non
