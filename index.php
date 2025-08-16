@@ -7,6 +7,7 @@
 <!--incluimos la barra de navegacion -->
 <?php
 include('./inc/navbar.php');
+include('./inc/script.php');
 ?>
 
 </body>
