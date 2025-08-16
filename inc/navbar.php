@@ -25,13 +25,48 @@
                 <a class="navbar-link">
                     Usuarios
                 </a>
-
                 <div class="navbar-dropdown">
                     <a class="navbar-item">
                         Nuevo
                     </a>
                     <a class="navbar-item">
                         Lista
+                    </a>
+
+                    <a class="navbar-item">
+                        Buscar
+                    </a>
+                </div>
+            </div>
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Categorias
+                </a>
+                <div class="navbar-dropdown">
+                    <a class="navbar-item">
+                        Nuevo
+                    </a>
+                    <a class="navbar-item">
+                        Lista
+                    </a>
+                    <a class="navbar-item">
+                        Buscar
+                    </a>
+                </div>
+            </div>
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Productos
+                </a>
+                <div class="navbar-dropdown">
+                    <a class="navbar-item">
+                        Nuevo
+                    </a>
+                    <a class="navbar-item">
+                        Lista
+                    </a>
+                    <a class="navbar-item">
+                        Por Categoria
                     </a>
                     <a class="navbar-item">
                         Buscar
