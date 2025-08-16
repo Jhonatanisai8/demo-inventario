@@ -23,22 +23,18 @@
         <div class="navbar-start">
             <div class="navbar-item has-dropdown is-hoverable">
                 <a class="navbar-link">
-                    More
+                    Usuarios
                 </a>
 
                 <div class="navbar-dropdown">
                     <a class="navbar-item">
-                        About
-                    </a>
-                    <a class="navbar-item is-selected">
-                        Jobs
+                        Nuevo
                     </a>
                     <a class="navbar-item">
-                        Contact
+                        Lista
                     </a>
-                    <hr class="navbar-divider">
                     <a class="navbar-item">
-                        Report an issue
+                        Buscar
                     </a>
                 </div>
             </div>
@@ -50,8 +46,8 @@
                     <a class="button is-primary is-rounded">
                         Mi cuenta
                     </a>
-                    <a class="button is-light">
-                        Log in
+                    <a class="button is-light is-rounded">
+                        Salir
                     </a>
                 </div>
             </div>
